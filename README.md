@@ -74,7 +74,7 @@ Aplikasi manajemen project, task, milestone, dan persetujuan progres (_progress 
 ### 1. Clone Repository
 
 ```bash
-git clone <url-repository-anda>
+git clone https://github.com/deadkom9-ops/project-king.git
 cd project-king
 ```
 
